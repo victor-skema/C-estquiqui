@@ -1,0 +1,33 @@
+﻿date;pseudo;affaire_id;affaire;accuse;bon_coupable;preuve_acceptee;questions_utilisees;score;profil
+2026-11-09T14:57:00;Sarah;2;Qui a mis une chaussette rouge dans le blanc ?;Camille;True;True;11;91;complet
+2026-11-09T18:35:00;Zoé;5;Qui a lancé la sono à 3 h du matin ?;Clara;False;True;9;50;complet
+2026-11-09T20:33:00;Tom;3;Qui a changé le mot de passe du streaming ?;Margaux;False;False;4;0;complet
+2026-11-10T01:22:00;Zoé;1;Qui a mangé le dernier tiramisu ?;Léa;True;False;3;48;complet
+2026-11-10T06:12:00;Sarah;1;Qui a mangé le dernier tiramisu ?;Léa;True;True;7;94;complet
+2026-11-10T10:56:00;Lina;3;Qui a changé le mot de passe du streaming ?;Théo;True;True;4;97;complet
+2026-11-10T14:38:00;Zoé;3;Qui a changé le mot de passe du streaming ?;Théo;True;True;11;91;complet
+2026-11-10T16:46:00;Karim;1;Qui a mangé le dernier tiramisu ?;Inès;False;True;5;50;complet
+2026-11-10T19:17:00;Zoé;3;Qui a changé le mot de passe du streaming ?;Théo;True;False;10;42;complet
+2026-11-10T23:31:00;Lina;1;Qui a mangé le dernier tiramisu ?;Léa;True;True;5;96;image
+2026-11-11T02:29:00;Lina;2;Qui a mis une chaussette rouge dans le blanc ?;Camille;True;True;8;93;complet
+2026-11-11T04:51:00;Zoé;5;Qui a lancé la sono à 3 h du matin ?;Sacha;True;True;4;97;image
+2026-11-11T08:43:00;Enzo;4;Qui a enlevé le nain de jardin du voisin ?;Anaïs;True;False;12;40;complet
+2026-11-11T11:48:00;Enzo;1;Qui a mangé le dernier tiramisu ?;Inès;False;True;10;50;complet
+2026-11-11T12:58:00;Zoé;4;Qui a enlevé le nain de jardin du voisin ?;Anaïs;True;True;7;94;complet
+2026-11-11T16:27:00;Karim;2;Qui a mis une chaussette rouge dans le blanc ?;Yanis;False;True;10;50;complet
+2026-11-11T19:45:00;Tom;5;Qui a lancé la sono à 3 h du matin ?;Lucas;False;False;8;0;complet
+2026-11-11T19:55:00;Tom;3;Qui a changé le mot de passe du streaming ?;Théo;True;True;6;95;image
+2026-11-12T00:32:00;Zoé;2;Qui a mis une chaussette rouge dans le blanc ?;Camille;True;True;9;92;complet
+2026-11-12T01:03:00;Zoé;2;Qui a mis une chaussette rouge dans le blanc ?;Camille;True;True;11;91;image
+2026-11-12T04:32:00;Enzo;1;Qui a mangé le dernier tiramisu ?;Inès;False;False;10;0;complet
+2026-11-12T05:02:00;Tom;5;Qui a lancé la sono à 3 h du matin ?;Lucas;False;True;8;50;complet
+2026-11-12T05:19:00;Lina;5;Qui a lancé la sono à 3 h du matin ?;Sacha;True;True;8;93;complet
+2026-11-12T08:29:00;Tom;1;Qui a mangé le dernier tiramisu ?;Léa;True;True;8;93;image
+2026-11-12T12:38:00;Lina;4;Qui a enlevé le nain de jardin du voisin ?;Anaïs;True;False;10;42;image
+2026-11-12T16:47:00;Sarah;1;Qui a mangé le dernier tiramisu ?;Léa;True;False;7;44;complet
+2026-11-12T18:06:00;Zoé;4;Qui a enlevé le nain de jardin du voisin ?;Anaïs;True;False;8;43;complet
+2026-11-12T22:35:00;Zoé;5;Qui a lancé la sono à 3 h du matin ?;Clara;False;False;7;0;complet
+2026-11-13T00:18:00;Tom;3;Qui a changé le mot de passe du streaming ?;Nina;False;False;12;0;complet
+2026-11-13T00:36:00;Karim;1;Qui a mangé le dernier tiramisu ?;Léa;True;True;3;98;complet
+2026-11-13T04:28:00;Karim;4;Qui a enlevé le nain de jardin du voisin ?;Anaïs;True;False;8;43;complet
+2026-11-13T07:24:00;Sarah;2;Qui a mis une chaussette rouge dans le blanc ?;Camille;True;True;6;95;complet
